@@ -369,6 +369,8 @@ tests/components/gios/* @bieniu
 homeassistant/components/github/* @timmo001 @ludeeus
 tests/components/github/* @timmo001 @ludeeus
 homeassistant/components/gitter/* @fabaff
+homeassistant/components/givenergy/* @cdpuk
+tests/components/givenergy/* @cdpuk
 homeassistant/components/glances/* @fabaff @engrbm87
 tests/components/glances/* @fabaff @engrbm87
 homeassistant/components/goalzero/* @tkdrob

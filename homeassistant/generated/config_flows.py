@@ -120,6 +120,7 @@ FLOWS = [
     "geonetnz_volcano",
     "gios",
     "github",
+    "givenergy",
     "glances",
     "goalzero",
     "gogogate2",

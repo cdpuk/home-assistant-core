@@ -483,6 +483,9 @@ getmac==0.8.2
 # homeassistant.components.gios
 gios==2.1.0
 
+# homeassistant.components.givenergy
+givenergy-modbus==0.10.1
+
 # homeassistant.components.glances
 glances_api==0.3.4
 
